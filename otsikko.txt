@@ -1,8 +1,5 @@
 # Otsikko
 
 WordPress  
-palasina  
-kappaleina  
-sirpaleista
 pala
 palalta
